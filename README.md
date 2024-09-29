@@ -39,3 +39,52 @@ L'objectif de cette Battledev était de créer une **page de connexion élégant
 - **Design mobile-first** :
   - Optimisation de l'interface pour une utilisation fluide sur mobile.
   - Utilisation de media queries pour ajuster la mise en page en fonction de la taille de l'écran.
+
+---
+
+# 🏅 Commentaires du Jury - Battledev 2024
+
+Voici les commentaires détaillés du jury suite à ma première place lors de la Battledev 2024. Leur retour m’a permis d’identifier des points d’amélioration pour rendre ma solution encore plus performante.
+
+
+### 🔒 Sécurité :
+
+- **Rien à signaler** : Aucun problème de sécurité identifié dans la solution proposée.
+
+---
+
+### 💻 Qualité du code :
+
+- **Simplicité et efficacité** : 
+  - "Code simple et efficace. Keep it simple !"
+- **Affichage des erreurs** : 
+  - "Pourrait être amélioré en séparant les différents types d'erreurs."
+- **Chargement du script JavaScript** :
+  - "Recommandé de le placer en haut du fichier pour de meilleures pratiques."
+  - Utilisation de l’attribut `defer` pour un chargement optimal.
+
+---
+
+### 🎨 UI/UX :
+
+- **Bouton de switch (Light/Dark)** :
+  - "La position et la couleur pourraient être améliorées pour une meilleure visibilité et affordance."
+- **Indication des erreurs de mot de passe** : 
+  - "Il serait bénéfique de rendre plus clair l'endroit où l'erreur s'est produite."
+
+---
+
+### ✅ Respect des conventions/consignes :
+
+- **Conformité** :
+  - "Toutes les consignes et conventions sont bien respectées."
+
+---
+
+### ⚙️ Fonctionnement :
+
+- **Envoi du formulaire** : 
+  - "Fonctionne correctement avec l'utilisation d'AJAX, grâce à `preventDefault`."
+
+---
+
