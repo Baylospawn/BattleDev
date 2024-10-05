@@ -1,6 +1,5 @@
 # 🏆 Battledev 2024 - Page de Connexion Élegante et Fonctionnelle
 
-**Position** : 1er  
 **Date** : 29/06/2024
 
 ## 📜 Sujet de la compétition
